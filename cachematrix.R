@@ -26,7 +26,7 @@ makeCacheMatrix <- function( m = matrix() ) {
   
   ## Method to get the inverse of the matrix
   getInverse <- function() { 
-    ## Return the inverse property
+    ## Return the inverse property  
     i
   }
   
